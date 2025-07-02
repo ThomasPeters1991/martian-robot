@@ -92,13 +92,13 @@ The input provided in the request body must follow these rules:
 ### Example
 
 #### Sample Input
-5 3
-1 1 E
-RFRFRFRF
-3 2 N
-FRRFLLFFRRFLL
-0 3 W
-LLFFFLFLFL
+5 3<br/>
+1 1 E<br/>
+RFRFRFRF<br/>
+3 2 N<br/>
+FRRFLLFFRRFLL<br/>
+0 3 W<br/>
+LLFFFLFLFL<br/>
 
 
 #### Sample `curl` Command
