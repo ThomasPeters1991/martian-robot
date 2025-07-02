@@ -1,11 +1,8 @@
 # Martian Robots API
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![API Version](https://img.shields.io/badge/api-v3.0-informational)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.1.5-success)
+This project provides a robust, containerized RESTful API to simulate the movement of robots on a rectangular Martian grid. It is built with Spring Boot and includes features like API documentation, structured logging, and graceful error handling. 
 
-This project provides a robust, containerized RESTful API to simulate the movement of robots on a rectangular Martian grid. It is built with Spring Boot and includes features like API documentation, structured logging, and graceful error handling.
+PLEASE NOTE: no in memory database used. The simulation "lives" for the duration of that one request.
 
 ---
 
